@@ -1,0 +1,4 @@
+js-slider
+=========
+
+Fullwidth Slider
